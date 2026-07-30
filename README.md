@@ -1,16 +1,15 @@
-## Hi there 👋
+# Leon
 
-<!--
-**LeonDong0807/LeonDong0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source contributor focused on TypeScript/React, Rust CLI tooling, regression testing, and accessibility.
 
-Here are some ideas to get you started:
+## Recent work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [hyperfine #910](https://github.com/sharkdp/hyperfine/pull/910) — streaming parameter-file support with tests and documentation.
+- [monk-plugin #28](https://github.com/monk-io/monk-plugin/pull/28) — safe launchd plist escaping with regression coverage.
+
+## Working style
+
+- Reproduce the problem before changing code.
+- Prefer small, reviewable fixes with regression tests.
+- Respond quickly to review feedback.
+- Avoid duplicate work and keep scope explicit.
